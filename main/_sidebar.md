@@ -1,0 +1,11 @@
+- Documentation
+	- [Chat](chat.md)
+		- [blur()](#blur)
+		- [clear()](#clear)
+		- [hide()](#hide)
+		- [receive()](#receivemsg)
+		- [scrollToBottom()](#scrolltobottom)
+		- [send()](#sendmessage)
+		- [show()](#show)
+	- [Client](client.md)
+	- [Notification Class](notification.md)
